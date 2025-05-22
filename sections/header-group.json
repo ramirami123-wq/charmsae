@@ -17,7 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "FREE DELIVERY ALL OVER LEBANON",
+            "text": "FREE DELIVERY FOR ORDERS ABOVE 50$",
             "text_on_mobile": "",
             "text_size": 13,
             "link": ""

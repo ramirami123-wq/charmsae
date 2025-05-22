@@ -250,7 +250,7 @@
     "featured_collection_DYNpRA": {
       "type": "featured-collection",
       "settings": {
-        "collection": "charms",
+        "collection": "all-products",
         "products_to_show": 12,
         "horizontal_scroll": false,
         "show_view_all": true,
@@ -338,6 +338,7 @@
         "featured_collection_WcKNLn",
         "featured_collection_iRWPgj"
       ],
+      "disabled": true,
       "settings": {
         "show_view_all": false,
         "show_divider": false,
@@ -360,18 +361,21 @@
         "step_6KHnb8": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/animation-3-composable-v1_5924c9b0-a024-4046-926a-2b6c9ac213c1.webp",
             "text": "<p>Expand the charms of your bracelet by pulling them apart.</p>"
           }
         },
         "step_Mz7DjV": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/animation-2-composable_b7380ecf-21fb-4353-9732-7bf7d469b292.webp",
             "text": "<p>Grasp the two Links you want to separate and unhook them.</p>"
           }
         },
         "step_Bw8Nct": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/animation-1-composable_57aad4c9-37a5-4f37-985b-f1021619e2e7.webp",
             "text": "<p>Insert and connect the new Charm, or remove an old one.</p>"
           }
         }
@@ -467,6 +471,7 @@
         "testimonial_rhFFBi": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Photo_May_01_2024_8_51_39_PM_43_1_1.png",
             "text": "<p>\"I bought a blank one for my boyfriend and he LOVES it. Looks very minimal, and feels extremely high quality on the wrist...\"</p>",
             "author": "Celine K."
           }
@@ -474,6 +479,7 @@
         "testimonial_VY6zVD": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Photo_May_01_2024_8_51_39_PM_18_1.png",
             "text": "<p>\"I have ordered twice and love it!! I had one when I was a little girl, this brought back so much nostalgia\"</p>",
             "author": "Mona"
           }
@@ -481,12 +487,14 @@
         "testimonial_Ly7pVr": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Photo_May_01_2024_8_51_39_PM_19_1_1.png",
             "text": "<p>\"I WILL NEVER TAKE IT OFF 😭💗 I've had mine for over a month and it still looks brand new!!!\"</p>",
             "author": "Maryam J."
           }
         },
         "testimonial_EpXkBa": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "text": "<p>\"ABSOLUTELY ADORABLE!!! I wear it everywhere and it hasn't rusted or turned green at all 🥰\"</p>",
             "author": "Joumana H."
@@ -494,6 +502,7 @@
         },
         "testimonial_wHrgQD": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "text": "<p>\"It's so refreshing to wear something that truly represents me. This bracelet is by far my favorite piece of jewelry I own!\"</p>",
             "author": "Malak K."
