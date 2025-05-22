@@ -56,8 +56,9 @@
     "header": {
       "type": "header",
       "settings": {
+        "logo": "shopify://shop_images/Charms_Logo_Export_no_background_1-removebg-preview.png",
         "logo_height": 50,
-        "mobile_logo_height": 44,
+        "mobile_logo_height": 38,
         "logo_position": "top-center",
         "menu": "main-menu",
         "menu_mobile": "main-menu",
