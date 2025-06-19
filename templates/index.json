@@ -250,7 +250,7 @@
     "featured_collection_DYNpRA": {
       "type": "featured-collection",
       "settings": {
-        "collection": "all-products",
+        "collection": "charms",
         "products_to_show": 12,
         "horizontal_scroll": false,
         "show_view_all": true,
