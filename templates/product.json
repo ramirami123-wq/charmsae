@@ -300,7 +300,7 @@
     "featured_collection_yXyp9V": {
       "type": "featured-collection",
       "settings": {
-        "collection": "charms",
+        "collection": "charms-1",
         "products_to_show": 12,
         "horizontal_scroll": false,
         "show_view_all": true,
@@ -322,15 +322,6 @@
         "enable_quick_view": false,
         "enable_color_swatches": true,
         "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "174534765867b81348": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true,
-        "show_divider": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -368,7 +359,6 @@
     "scrolling_promotion_KJmcXP",
     "product-recommendations",
     "featured_collection_yXyp9V",
-    "174534765867b81348",
     "17549444227ff2883b"
   ]
 }
