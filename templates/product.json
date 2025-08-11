@@ -70,9 +70,11 @@
             "show_gift_card_recipient": false
           }
         },
-        "c_edd_estimated_delivery_date_delivery_coder_theme_KrzwUM": {
-          "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/delivery_coder_theme/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
-          "settings": {}
+        "custom_liquid_eJE8Qc": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"delivery-widget__manual\"></div>"
+          }
         },
         "collapsible_tab_Eafx6J": {
           "type": "collapsible_tab",
@@ -106,7 +108,7 @@
         "custom_liquid_HR3dbn",
         "variant_picker",
         "buy_buttons",
-        "c_edd_estimated_delivery_date_delivery_coder_theme_KrzwUM",
+        "custom_liquid_eJE8Qc",
         "collapsible_tab_Eafx6J",
         "custom_liquid_97W9nE",
         "sticky_cart"
