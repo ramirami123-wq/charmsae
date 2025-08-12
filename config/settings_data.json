@@ -65,7 +65,7 @@
     "cart_recommendations_heading": "You may also like",
     "cart_recommendations_show_vendor": false,
     "predictive_search_show_vendor": true,
-    "currency_code_enabled": false,
+    "currency_code_enabled": true,
     "gift_card_logo_height": 70,
     "sections": {
       "main-password-header": {
